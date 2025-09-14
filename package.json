@@ -1,0 +1,23 @@
+{
+  "name": "new_projectr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhra5002/Medidrone-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhra5002/Medidrone-App/issues"
+  },
+  "homepage": "https://github.com/Abhra5002/Medidrone-App#readme",
+  "description": "",
+  "dependencies": {
+    "react": "^19.1.1"
+  }
+}
